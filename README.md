@@ -1,1 +1,1 @@
-# Backend do projeto da Semana OmniSatck 8 - Rocketseat
+# Semana OmniSatck 8 - Rocketseat
