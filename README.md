@@ -1,1 +1,2 @@
-# omnistack-8-tindev-api
+# Semana OmniSatck 8 - Rocketseat
+Backend da aplicação desenvolvida durante a semana usando NodeJS
