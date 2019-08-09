@@ -11,7 +11,8 @@ Instalação
 
 * **Pre-requisitos:** Antes de todo, é para rodar esse projeto necessario que você tenha já tenha o [node js](https://nodejs.org/en/), e o [yarn](https://yarnpkg.com/pt-BR/).
 
-* **Clone:** 
+* **Clone:** Para clonar o repositório use o seguinte comando.
 ```
-git clone 
-```
+git clone https://github.com/goncadanilo/omnistack-8-tindev-api.git
+``
+
