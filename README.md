@@ -14,6 +14,4 @@ Instalação
 * **Clone:** Para clonar o repositório use o seguinte comando.
 ```
 git clone https://github.com/goncadanilo/omnistack-8-tindev-api.git
-
-``
-
+```
