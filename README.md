@@ -8,3 +8,10 @@ A proposta objetivo desse projeto foi criar uma "versão" do tinder para desenvo
 
 Instalação
 -----
+
+* **Pre-requisitos:** Antes de todo, é para rodar esse projeto necessario que você tenha já tenha o [node js](https://nodejs.org/en/), e o [yarn](https://yarnpkg.com/pt-BR/).
+
+* **Clone:** 
+```
+git clone 
+```
