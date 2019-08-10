@@ -34,3 +34,4 @@ MONGO_URL=<sua string de coneção>
 yarn start
 ```
 
+Se tudo der certo o projeto irá rodar na porta 3000.
