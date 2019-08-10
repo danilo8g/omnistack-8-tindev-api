@@ -1,5 +1,5 @@
 # Semana OmniSatck 8 - Rocketseat
-Backend da aplicação desenvolvida durante a semana usando NodeJS
+Backend da aplicação desenvolvida durante a semana usando NodeJS.
 
 Descrição
 -----
@@ -15,3 +15,22 @@ Instalação
 ```
 git clone https://github.com/goncadanilo/omnistack-8-tindev-api.git
 ```
+
+* **Dependências:** Para instalar as dependências, entre na pasta onde do projeto e use o seguinte comando.
+```
+yarn install
+
+##ou apenas##
+
+yarn
+```
+
+* **Configurações:** Ainda na pasta do projeto, crie um arquivo com o nome `.env` na raiz. Esse arquivo guardará a string de coneção com o banco de dados. Nesse projeto foi usado o [MongoDB](https://www.mongodb.com/`). Esse arquivo deve ficar assim:
+```javascript
+MONGO_URL=<sua string de coneção>
+```
+* **Rodar o Projeto:** Se você seguiu os outros passos, agora já consegue rodar o projeto sem nenhum problema. Para isso use o seguinte comando.
+```
+yarn start
+```
+
