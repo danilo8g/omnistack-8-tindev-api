@@ -16,7 +16,7 @@ Instalação
 git clone https://github.com/goncadanilo/omnistack-8-tindev-api.git
 ```
 
-* **Dependências:** Para instalar as dependências, entre na pasta onde do projeto e use o seguinte comando.
+* **Dependências:** Para instalar as dependências, entre na pasta do projeto e use o seguinte comando.
 ```
 yarn install
 
