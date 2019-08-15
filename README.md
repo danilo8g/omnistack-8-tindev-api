@@ -25,7 +25,7 @@ yarn install
 yarn
 ```
 
-* **Configurações:** Ainda na pasta do projeto, crie um arquivo com o nome `.env` na raiz. Esse arquivo guardará a string de coneção com o banco de dados. Nesse projeto foi usado o [MongoDB](https://www.mongodb.com/`). Esse arquivo deve ficar assim:
+* **Configurações:** Ainda na pasta do projeto, crie um arquivo com o nome `.env` na raiz. Esse arquivo guardará a string de conexão com o banco de dados. Nesse projeto foi usado o [MongoDB](https://www.mongodb.com/`). Esse arquivo deve ficar assim:
 ```javascript
 MONGO_URL=<sua string de conexão>
 ```
